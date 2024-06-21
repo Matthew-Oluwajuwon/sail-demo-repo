@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="R8RGYUD09MHLHCnlawXU" name="Page-1">
+        <mxGraphModel dx="1138" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="160" width="310" height="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;CALL STACK&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="70" width="330" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="console.log(&quot;log 1&quot;)" style="whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="-80" y="250" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="console.log(&quot;log 3&quot;)" style="whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="-80" y="170" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="EVENT LOOP" style="whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="900" width="540" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="TASK QUEUE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="230" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="300" width="210" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="console.log(&quot;log 2&quot;)" style="whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="80" width="310" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
